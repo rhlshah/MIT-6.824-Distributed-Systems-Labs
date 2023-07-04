@@ -34,11 +34,3 @@ I will add detailed documentation of the implemented flow. Right now, only distr
 ## Aim
 To complete all the labs with full understanding and read all the given papers. I will create individual folders and upload the approach, topics learnt and some notes taken by seeing lecture.
 
-## Acknowledgements
-- I would like to thank Professor [Robert Morris](http://nil.lcs.mit.edu/rtm/) and MIT to upload these lectures on youtube and keeping the MIT Labs open for everyone.
-
-- I would also like to thank TA's for such a nice explaination of GO concurrency concepts in lectures(Lecture 5). It was really helpful.
-
-
-## Contributions
-- If you have some better ideas and implementation, I am open to discussion and feel free to open an issue followed by a Pull Request.
